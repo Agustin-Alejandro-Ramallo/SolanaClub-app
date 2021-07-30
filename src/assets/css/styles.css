@@ -594,7 +594,7 @@ main {
   transition: 0.5s;
 }
 .products .bd-grid .card .card__icon {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: #161616;
 }
 .products .bd-grid .card .card__icon:hover {
@@ -612,12 +612,12 @@ main {
   text-align: center;
 }
 .products .bd-grid .card .card__precis .card__preci--before {
-  font-size: 0.813rem;
+  font-size: 1, 5rem;
   color: #FF5151;
   margin-bottom: 0.25rem;
 }
 .products .bd-grid .card .card__precis .card__preci--now {
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 .products .main {

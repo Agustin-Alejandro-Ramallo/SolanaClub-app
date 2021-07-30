@@ -545,7 +545,7 @@
                 transition: .5s;
             }
             .card__icon{
-                font-size: 1.5rem;
+                font-size: 2.5rem;
                 color: #161616;
                 &:hover{
                     color: #FF5151;
@@ -562,12 +562,12 @@
                     text-align: center;
                 }
                 .card__preci--before{
-                    font-size: 0.813rem;;
+                    font-size: 1,5rem;
                     color: #FF5151;
                     margin-bottom: .25rem;
                 }
                 .card__preci--now{
-                    font-size: 1rem;
+                    font-size: 2rem;
                     font-weight: bold;
                 }
             }
