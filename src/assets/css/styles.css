@@ -471,7 +471,7 @@ main {
 }
 @media (min-width: 200px) and (max-width: 480px) {
   .galeria .slider {
-    height: 100vh;
+    height: 80vh;
   }
 }
 .galeria .slider ul {
@@ -499,13 +499,19 @@ main {
 }
 
 .products {
-  padding: 8rem 1rem 1rem 1rem;
+  background-image: url(../img/quincho.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 244px;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 .products h2 {
   font-weight: 400;
   line-height: 1.2;
   font-family: "Montserrat", "sans-serif";
-  color: #535353;
+  color: #F7F7F7;
   font-size: 72px;
   font-weight: 400;
   margin-top: 3px;
